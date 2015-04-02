@@ -1,2 +1,1 @@
-# css_animations
-CSS animation experiments
+# Some CSS Animations
